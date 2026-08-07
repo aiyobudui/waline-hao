@@ -5,3 +5,6 @@ node_modules
 .env
 .env.local
 .env.*.local
+
+# 助理本地工作数据（项目记忆等，仅本地、不进仓库）
+.workbuddy/
